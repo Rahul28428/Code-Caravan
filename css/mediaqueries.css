@@ -1,0 +1,5 @@
+@media (max-width:900px) {
+    #carousel-container {
+        height: 60vw;
+    }
+}
